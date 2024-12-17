@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=youssefbrr&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefbrr&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=youssefbrr&locale=en&mode=weekly&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefbrr&theme=one-dark&radius=15&area=true&hide_border=false&hide_title=false" height="240" alt="activity-graph graph"  />
 </div>
 
 ###
