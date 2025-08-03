@@ -13,8 +13,8 @@ I’m a versatile full-stack developer and Scrum Master with a passion for build
 - 💼 **Scrum Master & Developer of TAM**: A powerful project management platform with advanced features like list/board/timeline/calendar views, real-time collaboration, permission systems, and custom fields.
 - 🧪 **Currently working on multiple SaaS projects**: focused on solving real business needs with clean architecture and modern tooling.
 - 🎓 **Built and contributed to multiple educational platforms and learning tools**: enhancing the delivery of technical content and student engagement.
-- 🧠 **Educator @ Softy Education** – Teaching web development concepts with practical, project-based approaches.
-- 🎙️ **Contributor to the [Softylines - شيفرة](https://www.youtube.com/playlist?list=PLdX5DBwz4kBUdeAyCcjoufDfcLI9oB5SC) podcast** – A tech podcast in Arabic and Tunisian French exploring development, IT, and the local tech ecosystem. I occasionally join as a guest or collaborator.
+- 🧠 **Educator @ Softy Skills**: Teaching web development concepts with practical, project-based approaches.
+- 🎙️ **Contributor to the [Softylines - شيفرة](https://www.youtube.com/playlist?list=PLdX5DBwz4kBUdeAyCcjoufDfcLI9oB5SC) podcast**: A tech podcast in Arabic and Tunisian French exploring development, IT, and the local tech ecosystem. I occasionally join as a guest or collaborator.
 
 ---
 
