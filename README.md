@@ -50,7 +50,7 @@ I’m a versatile full-stack developer and Scrum Master with a passion for build
 
 I love sharing my knowledge through:
 
-- 👨‍🏫 Teaching at **Softy Education** (Frontend & Full-Stack courses)
+- 👨‍🏫 Teaching at **Softy Skills** (Frontend & Full-Stack courses)
 - 🧑‍🏫 Creating **slides and TOC-driven learning materials**
 - 🎙️ Contributing to the **شيفرة** podcast, exploring tech and development in Arabic and Tunisian French.
 
