@@ -26,11 +26,6 @@ Senior software engineer with **5+ years** building production-grade backend sys
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefbrr&show_icons=true&theme=onedark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefbrr&theme=onedark&row=2&column=3&no-frame=true&no-bg=true" height="100" />
-</div>
-
 ---
 
 ## 🤖 AI Engineering
