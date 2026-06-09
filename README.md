@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/youssefbrr/youssefbrr/main/your-image.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/youssefbrr/youssefbrr/main/header.jpg" width="100%" />
 </div>
 
 <h1 align="center">Senior Software Engineer — AI Systems & Backend</h1>
