@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/youssefbrr/youssefbrr/main/header.jpg" width="100%" />
 </div>
 
-<h1 align="center">Senior Software Engineer — AI Systems & Backend</h1>
+<h1 align="center">Senior Software Engineer - AI Systems & Backend</h1>
 
 <p align="center">
   <a href="https://yusuf.tn"><img src="https://img.shields.io/badge/-yusuf.tn-000?logo=safari&logoColor=white&style=flat-square" /></a>
@@ -17,12 +17,12 @@
 
 Senior software engineer with **5+ years** building production-grade backend systems and AI-integrated platforms. Specializes in **agentic systems**, **LLM integrations**, and **scalable multi-tenant SaaS architectures** using Node.js, NestJS, and PostgreSQL. Hands-on with the **Model Context Protocol (MCP)**, prompt engineering, RAG, and eval-driven development. Team lead and Scrum Master with a track record of shipping reliable systems, mentoring engineers, and turning ambiguous requirements into measurable outcomes.
 
-- 🤖 **Senior Software Engineer · AI in Hospitality** @ Quicktext — MCP servers, eval pipelines, agent-based reasoning
-- 🏗️ **Lead Software Engineer** @ Quomeda — System design, code quality, delivery velocity
-- 📊 **Backend Team Lead** @ Softylines — TAM — Multi-tenant PM SaaS, real-time collaboration, RBAC
-- 🧠 **Scrum Master** — Sprint planning, retrospectives, cross-functional leadership
-- 🎓 **Instructor** @ Softy Skills — Project-based web dev education
-- 🎙️ **Podcast Contributor** — [Softylines - شيفرة](https://www.youtube.com/playlist?list=PLdX5DBwz4kBUdeAyCcjoufDfcLI9oB5SC)
+- 🤖 **Senior Software Engineer · AI in Hospitality** @ Quicktext - MCP servers, eval pipelines, agent-based reasoning
+- 🏗️ **Lead Software Engineer** @ Quomeda - System design, code quality, delivery velocity
+- 📊 **Backend Team Lead** @ Softylines - TAM - Multi-tenant PM SaaS, real-time collaboration, RBAC
+- 🧠 **Scrum Master** - Sprint planning, retrospectives, cross-functional leadership
+- 🎓 **Instructor** @ Softy Skills - Project-based web dev education
+- 🎙️ **Podcast Contributor** - [Softylines - شيفرة](https://www.youtube.com/playlist?list=PLdX5DBwz4kBUdeAyCcjoufDfcLI9oB5SC)
 
 <br/>
 
@@ -54,7 +54,7 @@ Senior software engineer with **5+ years** building production-grade backend sys
 
 **📍 Current**
 
-**Senior Software Engineer · AI in Hospitality** @ **Quicktext** — _Jan 2026 – Present_
+**Senior Software Engineer · AI in Hospitality** @ **Quicktext** - _Jan 2026 – Present_
 - Build production AI features and MCP server integrations for an LLM-powered hospitality platform used by hotels internationally
 - Design backend systems pairing agent-based reasoning with structured data access across booking engines, room availability, and guest CRM
 - Develop evaluation pipelines and observability for LLM-driven workflows in a live customer-facing environment
@@ -63,12 +63,12 @@ Senior software engineer with **5+ years** building production-grade backend sys
 
 **📜 Previous**
 
-**Lead Software Engineer** @ **Quomeda** — _Jul 2025 – Jan 2026_
+**Lead Software Engineer** @ **Quomeda** - _Jul 2025 – Jan 2026_
 - Led backend engineering and architecture across the product, owning system design, code quality, and delivery velocity
 - Introduced review and testing standards that raised code-quality bar and reduced regressions reaching production
 - Mentored engineers on clean architecture and maintainable design, shortening onboarding and accelerating feature delivery
 
-**Backend Team Lead** @ **Softylines — TAM** — _Sep 2023 – Jun 2025_
+**Backend Team Lead** @ **Softylines - TAM** - _Sep 2023 – Jun 2025_
 - Led backend development of a multi-tenant project management SaaS with RBAC, custom fields, and real-time document collaboration
 - Optimized complex PostgreSQL queries with strategic indexing (60% faster execution)
 - Automated deployments with Docker and GitHub Actions (40% faster release cycles)
@@ -77,13 +77,13 @@ Senior software engineer with **5+ years** building production-grade backend sys
 - Stood up monitoring and alerting with Grafana, Prometheus, and Loki
 - Acted as Scrum Master: facilitated sprint planning, stand-ups, and retrospectives
 
-**Software Developer** @ **Softylines — Web School Solution** — _Sep 2022 – Sep 2023_
+**Software Developer** @ **Softylines - Web School Solution** - _Sep 2022 – Sep 2023_
 - Built and maintained React + TypeScript front end of a school-management platform with REST APIs and Redux
 
-**Software Programming Instructor** @ **Softy Skills** — _May 2023 – Jul 2025_
+**Software Programming Instructor** @ **Softy Skills** - _May 2023 – Jul 2025_
 - Taught modern web development (HTML, CSS, JavaScript, React, backend) to dozens of students
 
-**Full Stack Developer** @ **Independent / Freelance** — _May 2020 – Aug 2022_
+**Full Stack Developer** @ **Independent / Freelance** - _May 2020 – Aug 2022_
 - Delivered full-stack web applications for small businesses using JavaScript, Node.js, and React
 
 ---
