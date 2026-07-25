@@ -105,7 +105,7 @@ Senior software engineer with **5+ years** building production-grade backend sys
   <a href="mailto:bourourouyoussef1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://yusuf.tn"><img src="https://img.shields.io/badge/Website-000?logo=safari&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/youssefbrr/youssefbrr/raw/main/youssef-bourourou-resume.pdf"><img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge" /></a>
-  <a href="https://cal.com/youssefbrr/15min"><img src="https://img.shields.io/badge/Book_a_Call-FF5C5C?logo=calendly&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://cal.com/yusuf.tn/15min"><img src="https://img.shields.io/badge/Book_a_Call-FF5C5C?logo=calendly&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
